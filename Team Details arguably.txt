@@ -1,0 +1,17 @@
+Team Member 1:
+
+Name: Guneet Singh Kohli
+Affliation: Thapar University 
+email-id: gkohli_be18@thapar.edu
+
+Team Member 2:
+
+Name: Prabsimran Kaur
+Affliation: Thapar University 
+email-id: pkaur_be18@thapar.edu
+
+Team Member 3:
+
+Name: Dr. Jatin Bedi
+Affliation: Thapar University 
+email-id: jatin.bedi@thapar.edu
